@@ -1,0 +1,26 @@
+@import url(../assets/fonts/fonts.css);
+@import url(../assets/color.css);
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Poppins;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background: var(--primary-color);
+    color: black;
+    overflow-x: hidden;
+}

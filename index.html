@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thế Giới Động Vật</title>
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/footer.css">
+</head>
+
+<body>
+    <!-- ═══════════════ HERO ═══════════════ -->
+    <section id="hero">
+
+        <div id="slideNext" class="slide"></div>
+        <div id="slideCurrent" class="slide slide-current"></div>
+
+        <div class="hero-overlay"></div>
+
+        <div class="hero-rule">
+            <span></span>
+            <em>Wildlife</em>
+            <span></span>
+        </div>
+
+        <div class="hero-content">
+            <p class="hero-eyebrow">Khám phá · Tìm hiểu · Phát triển</p>
+            <h1 class="hero-title">THẾ GIỚI<br /><span>ĐỘNG VẬT</span></h1>
+            <p class="hero-sub">Cung cấp cho bạn kiến thức về các động vật hoang dã trên toàn thế giới.</p>
+            <div class="hero-actions">
+                <a href="map.html" class="btn btn-primary">
+                    <img src="assets/images/icons/map.svg" alt="map icon" width="24" height="24"/>
+                    <span>Khám phá bản đồ</span>
+                </a>
+                <button onclick="openSearch()" class="btn btn-outline">
+                    <img src="assets/images/icons/search.svg" alt="map icon" width="24" height="24"/>
+                    Tìm kiếm
+                </button>
+            </div>
+        </div>
+
+        <div class="slide-counter">
+            <div class="counter-dots" id="dots"></div>
+            <div class="counter-text" id="counterText">01 / 05</div>
+        </div>
+
+        <div class="scroll-hint">Cuộn xuống</div>
+    </section>
+
+    <!-- ═══════════════ ABOUT ═══════════════ -->
+    <section id="about">
+        <div class="about-inner">
+            <div>
+                <p class="about-label">Giới thiệu</p>
+                <h2 class="about-heading">Thế giới<br /><em>tự nhiên</em><br />rộng lớn</h2>
+                <div class="about-deco"></div>
+                <p class="about-text">Thế Giới Động Vật là nền tảng tra cứu trực tuyến giúp bạn khám phá hàng nghìn loài
+                    động vật hoang dã từ mọi châu lục trên hành tinh.</p>
+                <p class="about-text">Nội dung chi tiết sẽ được cập nhật sớm.</p>
+                <div class="stat-grid">
+                    <div class="stat-item">
+                        <div class="stat-num">8,700+</div>
+                        <div class="stat-label">Loài động vật</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-num">195</div>
+                        <div class="stat-label">Quốc gia</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-num">13</div>
+                        <div class="stat-label">Khu vực</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-num">∞</div>
+                        <div class="stat-label">Điều thú vị</div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-placeholder">
+                <div class="about-placeholder-icon">🌿</div>
+                <p>Nội dung sẽ được cập nhật</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════ FOOTER ═══════════════ -->
+    <div id="footer-container"></div>
+
+    <!-- ═══════════════ SEARCH POPUP ═══════════════ -->
+    <div class="search-backdrop" id="searchBackdrop" onclick="handleBackdropClick(event)">
+        <div class="search-popup" role="dialog" aria-modal="true" aria-label="Tìm kiếm">
+
+            <!-- Input bar -->
+            <div class="search-header">
+                <span class="search-icon">
+                    <img src="assets/images/icons/search_blue.svg" alt="map icon" width="24" height="24"/>
+                </span>
+                <input id="searchInput" class="search-input" type="text"
+                    placeholder="Tìm kiếm động vật, loài, môi trường sống…" autocomplete="off"/>
+                <span class="search-kbd">ESC</span>
+                <button class="search-close" onclick="closeSearch()" aria-label="Đóng">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"/>
+                        <line x1="6" y1="6" x2="18" y2="18"/>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Results area -->
+            <div class="search-body" id="searchBody">
+                <div class="search-empty" id="searchEmpty"></div>
+            </div>
+
+            <!-- Footer hints -->
+            <div class="search-footer">
+                <span class="search-hint"><kbd>↵</kbd> Tìm kiếm</span>
+                <span class="search-hint"><kbd>ESC</kbd> Đóng</span>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="scripts/index.js"></script>
+    <script src="scripts/footer.js"></script>
+</body>
+
+</html>

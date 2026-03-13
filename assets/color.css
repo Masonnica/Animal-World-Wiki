@@ -1,0 +1,13 @@
+:root {
+    --primary-color:   #ffffff;
+    --secondary-color: #0f172a;
+    --accent-color-1:  #22c55e;
+    --accent-color-2:  #3b83f6;
+}
+
+.darkmode {
+    --primary-color:   #ffffff;
+    --secondary-color: #0f172a;
+    --accent-color-1:  #22c55e;
+    --accent-color-2:  #3b83f6;
+}
