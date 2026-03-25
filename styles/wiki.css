@@ -232,6 +232,12 @@ header {
     color: #2d3d2d;
 }
 
+.appearance .content span,
+.lifestyle .content span,
+.biography .content span {
+    display: block;
+}
+
 .appearance .content ul,
 .lifestyle .content ul,
 .biography .content ul {

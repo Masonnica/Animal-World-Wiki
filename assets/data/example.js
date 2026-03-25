@@ -1,9 +1,9 @@
 const scname = "Acipenser Transmontanus";
 const vnname = "Cá tầm trắng";
 const tags = "Bắc Mỹ";
-const appearance = "abc\n- bullet points\n- bullet points 1\n- bullet points 2\n<link|text>";
-const lifestyle = "Lorem ipsum dolor sit amet consectetur adipiscing elit.\n- Pulvinar vivamus fringilla lacus nec metus bibendum egestas.\n- Orci varius natoque penatibus et magnis dis parturient.\nVestibulum fusce dictum risus blandit quis suspendisse aliquet.";
-const biography = "Porta elementum a enim euismod quam justo lectus.\nDui felis venenatis ultrices proin libero feugiat tristique.\nAdipiscing elit quisque faucibus ex sapien vitae pellentesque.\nBibendum egestas iaculis massa nisl malesuada lacinia integer.\nSemper vel class aptent taciti sociosqu ad litora.\nMattis scelerisque maximus eget fermentum odio phasellus non.";
+const appearance = "abc\n- bullet points\n- bullet points 1\n- bullet points 2\n<link|text>\n<link|text>\n<link|text>";
+const lifestyle = "Lorem ipsum dolor sit amet consectetur adipiscing elit.\n- Pulvinar vivamus fringilla lacus nec metus bibendum egestas.\n- Orci varius natoque penatibus et magnis dis parturient.\nVestibulum fusce dictum risus blandit quis suspendisse aliquet.\nA1\nB2\nC3\n- ABCDEFG\n- 123456";
+const biography = "Porta elementum a enim euismod quam justo lectus.\nDui felis venenatis ultrices proin libero feugiat tristique.\nAdipiscing elit quisque faucibus ex sapien vitae pellentesque.\nBibendum egestas iaculis massa nisl malesuada lacinia integer.\nSemper vel class aptent taciti sociosqu ad litora.\nMattis scelerisque maximus eget fermentum odio phasellus non. Porta elementum a enim euismod quam justo lectus.\nDui felis venenatis ultrices proin libero feugiat tristique.\nAdipiscing elit quisque faucibus ex sapien vitae pellentesque.\nBibendum egestas iaculis massa nisl malesuada lacinia integer.\nSemper vel class aptent taciti sociosqu ad litora.\nMattis scelerisque maximus eget fermentum odio phasellus non.";
 
 function addList(list, selector) {
     for (let i = 0; i < list.length; i++) {
@@ -15,6 +15,7 @@ function addList(list, selector) {
 
 function addLine(lines, selector) {
     for (let i = 0; i < lines.length; i++) {
+        console.log(lines[i])
         const span = document.createElement('span');
         if (lines[i].startsWith('- ')) {
             let islist = true;
@@ -22,14 +23,16 @@ function addLine(lines, selector) {
             const ul = document.createElement('ul');
 
             while (islist) {
-                if (lines[i].startsWith("- ")) {
+                if (i >= lines.length) {
+                    islist = false;
+                } else if (lines[i].startsWith("- ")) {
                     list.push(lines[i].slice(2));
                 } else {
                     islist = false;
                 }
                 i += 1;
             }
-            i -= 1;
+            i -= 2;
 
             addList(list, ul)
             console.log(ul)
