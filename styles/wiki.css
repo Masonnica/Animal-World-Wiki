@@ -24,3 +24,252 @@ body {
     color: black;
     overflow-x: hidden;
 }
+
+/* ─── HEADER ─── */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    height: 56px;
+    background: #ffffff;
+    border-bottom: 1px solid #e4ece4;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, .06); /* ← thêm dòng này */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    gap: 2rem;
+}
+
+.logo {
+    flex-shrink: 0;
+}
+
+.logo img {
+    height: 32px;
+    width: auto;
+    display: block;
+}
+
+.features {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+    justify-content: flex-end;
+    max-width: 360px;
+    margin-left: auto;
+}
+
+.search {
+    position: relative;
+    width: 100%;
+}
+
+.search::before {
+    content: '';
+    position: absolute;
+    left: .75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+}
+
+.search-input {
+    width: 100%;
+    height: 34px;
+    background: #f1f5f1;
+    border: 1px solid #dde8dd;
+    border-radius: 20px;
+    padding: 0 1rem 0 2.2rem;
+    font-family: Poppins;
+    font-size: .8rem;
+    color: #1a2e1a;
+    outline: none;
+    transition: border-color .2s, background .2s;
+}
+
+.search-input::placeholder {
+    color: #9aaa9a;
+}
+
+.search-input:focus {
+    background: #ffffff;
+    border-color: var(--accent-color-1);
+}
+
+/* ─── PAGE LAYOUT ─── */
+#table-content {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    width: 16%;
+    height: calc(100vh - 56px);
+    background: #ffffff;
+    padding: 2rem 0;
+    overflow-y: auto;
+}
+
+#table-content h3 {
+    color: black;
+    font-size: 1.8rem;
+    font-weight: 600;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: 0 1.4rem;
+    margin-bottom: .4rem;
+}
+
+#table-content ul {
+    list-style: none;
+}
+
+#table-content ul li a {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    padding: .55rem 1.4rem;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition: background .15s, color .15s, border-color .15s;
+}
+
+#table-content ul li a:hover {
+    background: rgba(34, 197, 94, .1);
+    color: #1a5c1a;
+    border-left-color: var(--accent-color-1);
+}
+
+#table-content ul li a.active {
+    background: rgba(34, 197, 94, .12);
+    color: #166534;
+    border-left-color: var(--accent-color-1);
+    font-weight: 600;
+}
+
+/* ─── MAIN CONTENT ─── */
+#content {
+    font-size: 16px;
+    margin-left: 16%;
+    margin-top: 56px;
+    padding: 2rem 2rem 2rem;
+    max-width: 84%;
+    background: #fefaf2;
+    color: black;
+}
+
+/* Title block */
+.title {
+    margin-bottom: 2rem;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.tags li {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: .3rem .8rem;
+    border-radius: 4px;
+    border: 1px solid currentColor;
+}
+
+.title h2 {
+    font-size: 4.209rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .5rem;
+    letter-spacing: .02em;
+}
+
+.title p {
+    font-size: 1.777rem;
+    font-style: italic;
+    font-weight: 300;
+}
+
+/* Content sections */
+.appearance,
+.lifestyle,
+.biography {
+    margin-top: 2rem;
+    padding-top: 1em;
+    border-top: 3px solid #00000024;
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 3rem;
+    align-items: start;
+}
+
+.appearance h3,
+.lifestyle h3,
+.biography h3 {
+    grid-column: 1 / -1;
+    font-size: 3.157rem;
+    font-weight: 700;
+    color: var(--accent-color-1);
+    margin-bottom: .5rem;
+}
+
+.appearance .content,
+.lifestyle .content,
+.biography .content {
+    font-size: .92rem;
+    line-height: 1.85;
+    color: #2d3d2d;
+}
+
+/* Quick facts panel */
+.quick-facts {
+    background: #ffffff;
+    border: 1px solid #e4ece4;
+    border-radius: 6px;
+    padding: 1.2rem 1.4rem;
+    font-size: .82rem;
+}
+
+.quick-facts .quick-facts-label {
+    font-size: .6rem;
+    font-weight: 600;
+    letter-spacing: .15em;
+    text-transform: uppercase;
+    color: #5a7a5a;
+    margin-bottom: .8rem;
+}
+
+.quick-facts table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.quick-facts table tr {
+    border-bottom: 1px solid #f0f5f0;
+}
+
+.quick-facts table tr:last-child {
+    border-bottom: none;
+}
+
+.quick-facts table td {
+    padding: .55rem 0;
+    color: #4a6a4a;
+}
+
+.quick-facts table td:last-child {
+    text-align: right;
+    font-weight: 600;
+    color: #1a2e1a;
+}
