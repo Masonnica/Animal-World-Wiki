@@ -1,0 +1,6 @@
+const scname = "Otis Tarda";
+const vnname = "Chim ô tác lớn";
+const tags = "Trung Á";
+const appearance = "- Kích thước rất lớn, là một trong những loài chim biết bay nặng nhất\n- Bộ lông chủ yếu màu nâu vàng với hoa văn vằn đen giúp ngụy trang\n- Phần bụng và dưới cánh màu trắng\n- Con đực có “ria” lông dài màu trắng ở hai bên mỏ\n- Sải cánh rộng, có thể đạt tới hơn 2 m";
+const lifestyle = "Chim ô tác lớn sống ở các vùng thảo nguyên, đồng cỏ rộng lớn tại Trung Á và một phần châu Âu. Chúng là loài ăn tạp, thức ăn gồm thực vật, hạt, côn trùng và đôi khi cả động vật nhỏ. Loài này thường sống trên mặt đất, ít khi bay trừ khi cần thiết. Chúng hoạt động ban ngày và thường đi kiếm ăn theo nhóm nhỏ hoặc đàn.";
+const biography = "Otis tarda là loài chim biểu tượng của các vùng thảo nguyên Á-Âu. Trong quá khứ, chúng có phân bố rộng nhưng số lượng đã suy giảm do săn bắt và mất môi trường sống. Hiện nay, loài này được bảo vệ ở nhiều quốc gia và đang có các chương trình bảo tồn nhằm phục hồi quần thể, tuy nhiên vẫn được xếp vào nhóm loài dễ bị tổn thương.";

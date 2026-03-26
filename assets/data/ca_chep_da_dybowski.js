@@ -1,0 +1,6 @@
+const scname = "Gymnodiptychus Dybowskii";
+const vnname = "Cá chép đá Dybowski";
+const tags = "Trung Á";
+const appearance = "- Thân thon dài, thích nghi với môi trường nước chảy\n- Lưng màu xám hoặc nâu nhạt, bụng sáng hơn\n- Vảy nhỏ, bám chặt vào cơ thể\n- Miệng ở phía dưới, môi dày giúp bám và cạo thức ăn trên đá\n- Vây phát triển, giúp giữ thăng bằng trong dòng nước xiết";
+const lifestyle = "Cá chép đá Dybowski sống ở các sông và suối nước lạnh vùng núi tại Trung Á. Chúng thích nghi tốt với môi trường nước có dòng chảy mạnh và nhiệt độ thấp. Thức ăn chủ yếu là tảo, thực vật thủy sinh và các sinh vật nhỏ bám trên đá. Loài này thường sống gần đáy và di chuyển chậm để tiết kiệm năng lượng.";
+const biography = "Gymnodiptychus dybowskii là loài cá đặc trưng của hệ sinh thái nước ngọt vùng núi Trung Á. Chúng đóng vai trò quan trọng trong việc duy trì cân bằng sinh thái bằng cách kiểm soát tảo và sinh vật nhỏ. Tuy nhiên, loài này có thể bị ảnh hưởng bởi ô nhiễm nước, xây dựng công trình thủy điện và biến đổi khí hậu làm thay đổi môi trường sống tự nhiên.";

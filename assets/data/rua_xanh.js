@@ -1,0 +1,6 @@
+const scname = "Chelonia Mydas";
+const vnname = "Rùa xanh";
+const tags = "Úc";
+const appearance = "- Thân hình thon dài, mai cứng, màu nâu xanh hoặc xanh ô liu\n- Đầu nhỏ, mắt to, mỏ nhẹ, không có răng sắc\n- Chân trước dài, dạng mái chèo, thích hợp bơi lội xa\n- Chân sau ngắn hơn, dùng để điều hướng và hỗ trợ đi trên cạn\n- Kích thước trưởng thành có thể dài 1–1,5 m, nặng 100–160 kg";
+const lifestyle = "Rùa xanh sống ở các vùng biển ven bờ, vịnh, đầm phá và rạn san hô tại Úc. Chúng là loài ăn thực vật, chủ yếu ăn cỏ biển và tảo. Rùa xanh bơi lội khéo léo, di chuyển xa để tìm thức ăn và bãi đẻ. Chúng lên bờ để đẻ trứng, thường chọn bãi cát sạch và yên tĩnh.";
+const biography = "Chelonia mydas là một trong những loài rùa biển quan trọng của Úc, đóng vai trò duy trì sức khỏe của các rạn san hô và cỏ biển. Hiện nay, loài này đang bị đe dọa do khai thác trứng, săn bắt và ô nhiễm môi trường biển. Nhiều chương trình bảo tồn được triển khai nhằm bảo vệ quần thể rùa xanh và các bãi đẻ quan trọng.";

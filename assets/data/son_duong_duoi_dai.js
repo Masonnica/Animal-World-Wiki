@@ -1,0 +1,6 @@
+const scname = "Naemorhedus Caudatus";
+const vnname = "Sơn dương đuôi dài";
+const tags = "Đông Á";
+const appearance = "- Kích thước trung bình, thân hình chắc khỏe\n- Bộ lông dày màu xám nâu, giúp giữ ấm trong môi trường lạnh\n- Cổ có bờm lông dài, tạo vẻ thô ráp đặc trưng\n- Sừng ngắn, cong nhẹ về phía sau, có ở cả con đực và con cái\n- Đuôi tương đối dài so với các loài cùng họ, có chùm lông ở cuối";
+const lifestyle = "Sơn dương đuôi dài sống ở các vùng núi đá, rừng núi và vách đá dốc tại Đông Á như Trung Quốc, bán đảo Triều Tiên và vùng Viễn Đông Nga. Chúng là loài ăn cỏ, thức ăn chủ yếu gồm lá cây, cỏ, chồi non và địa y. Loài này thường hoạt động vào sáng sớm và chiều tối, có khả năng leo trèo rất tốt trên địa hình hiểm trở. Chúng sống đơn độc hoặc theo nhóm nhỏ.";
+const biography = "Naemorhedus caudatus là loài động vật móng guốc thích nghi tốt với môi trường núi cao khắc nghiệt. Chúng đóng vai trò quan trọng trong hệ sinh thái bằng cách duy trì thảm thực vật và là con mồi của các loài thú săn lớn. Hiện nay, loài này đang đối mặt với các mối đe dọa như mất môi trường sống và săn bắt, khiến số lượng ở một số khu vực bị suy giảm.";

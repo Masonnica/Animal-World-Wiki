@@ -1,0 +1,6 @@
+const scname = "Fratercula Arctica";
+const vnname = "Chim hải âu mỏ mầu";
+const tags = "Bắc Cực";
+const appearance = "- Thân hình nhỏ gọn, lông màu đen ở lưng và đầu, bụng trắng\n- Mỏ lớn, hình tam giác, màu cam tươi với viền vàng vào mùa sinh sản\n- Chân ngắn, màu cam rực rỡ, thích hợp bơi và đứng trên đá\n- Cánh ngắn, cứng, giúp bơi lặn hiệu quả\n- Kích thước trung bình khoảng 28–30 cm, cân nặng 500–600 g";
+const lifestyle = "Chim hải âu mỏ mầu sống ở các vách đá ven biển và đảo đá tại Bắc Cực. Chúng là loài ăn cá, săn mồi bằng cách lặn xuống nước. Loài này sống theo đàn lớn, làm tổ trong hang hoặc khe đá để bảo vệ trứng và con non. Fratercula arctica hoạt động chủ yếu vào ban ngày, bơi và lặn linh hoạt để kiếm thức ăn.";
+const biography = "Fratercula arctica là loài chim biển đặc trưng của Bắc Cực và các vùng biển Bắc Đại Tây Dương, nổi bật với mỏ sặc sỡ và khả năng bơi lặn xuất sắc. Chúng đóng vai trò quan trọng trong hệ sinh thái biển bằng cách kiểm soát quần thể cá nhỏ. Hiện nay, loài này vẫn phân bố rộng, nhưng một số quần thể có thể bị ảnh hưởng bởi biến đổi khí hậu và ô nhiễm biển.";

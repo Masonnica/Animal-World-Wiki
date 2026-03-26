@@ -1,0 +1,6 @@
+const scname = "Takifugu Rubripes";
+const vnname = "Cá nóc hổ";
+const tags = "Đông Á";
+const appearance = "- Thân hình tròn, có khả năng phồng lên khi bị đe dọa\n- Da trơn, không có vảy rõ rệt\n- Lưng màu xám nâu với các đốm đen, bụng trắng\n- Miệng nhỏ nhưng có răng hợp lại thành dạng mỏ cứng\n- Kích thước trung bình khoảng 30–50 cm";
+const lifestyle = "Cá nóc hổ sống ở vùng biển ven bờ và cửa sông tại Đông Á, đặc biệt quanh Nhật Bản, Hàn Quốc và Trung Quốc. Chúng ăn các loài động vật nhỏ như giáp xác, nhuyễn thể và đôi khi cả cá nhỏ. Khi gặp nguy hiểm, chúng có thể bơm nước vào cơ thể để phồng to, khiến kẻ săn mồi khó nuốt. Loài này hoạt động chủ yếu ở tầng đáy hoặc gần đáy biển.";
+const biography = "Takifugu rubripes là một trong những loài cá nóc nổi tiếng nhất, đặc biệt trong ẩm thực Nhật Bản với món “fugu”. Tuy nhiên, cơ thể chúng chứa độc tố tetrodotoxin cực mạnh, có thể gây tử vong nếu chế biến không đúng cách. Vì vậy, việc chế biến loài cá này phải do đầu bếp được cấp phép thực hiện. Ngoài giá trị ẩm thực, loài này còn được nghiên cứu khoa học nhờ bộ gen tương đối nhỏ và đặc biệt.";

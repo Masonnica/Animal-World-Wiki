@@ -1,0 +1,6 @@
+const scname = "Menura Novaehollandiae";
+const vnname = "Chim thiên đường đuôi đàn lia";
+const tags = "Úc";
+const appearance = "- Kích thước khá lớn so với chim biết hót\n- Bộ lông màu nâu xám, giúp ngụy trang trong rừng\n- Đuôi dài, đặc biệt ở con đực có hình dạng giống cây đàn lia\n- Lông đuôi có các sợi mảnh và cong tạo hình rất độc đáo\n- Chân khỏe, thích hợp đi lại và bới đất";
+const lifestyle = "Chim thiên đường đuôi đàn lia sống trong các khu rừng ẩm và rừng mưa tại Úc. Chúng kiếm ăn dưới mặt đất, thức ăn gồm côn trùng, giun và các sinh vật nhỏ. Loài này nổi tiếng với khả năng bắt chước âm thanh cực kỳ đa dạng, từ tiếng chim khác đến âm thanh môi trường. Con đực thường biểu diễn bằng cách xòe đuôi và phát ra âm thanh để thu hút con cái.";
+const biography = "Menura novaehollandiae là một trong những loài chim độc đáo nhất thế giới nhờ khả năng bắt chước âm thanh đáng kinh ngạc. Chúng đóng vai trò quan trọng trong hệ sinh thái rừng bằng cách kiểm soát côn trùng. Hiện nay, loài này vẫn có phân bố ổn định tại Úc, tuy nhiên môi trường sống của chúng có thể bị ảnh hưởng bởi cháy rừng và hoạt động của con người.";

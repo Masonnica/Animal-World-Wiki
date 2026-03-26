@@ -1,0 +1,6 @@
+const scname = "Equus Hemionus";
+const vnname = "Lừa hoang châu Á";
+const tags = "Trung Á";
+const appearance = "- Thân hình trung bình, dáng giống giữa ngựa và lừa\n- Bộ lông màu nâu vàng hoặc cát, bụng nhạt màu hơn\n- Có một dải sọc đen chạy dọc sống lưng\n- Tai dài hơn ngựa nhưng ngắn hơn lừa\n- Chân dài, khỏe, thích nghi với việc chạy nhanh trên địa hình khô hạn";
+const lifestyle = "Lừa hoang châu Á sống ở các vùng sa mạc, bán sa mạc và thảo nguyên khô tại Trung Á. Chúng là loài ăn cỏ, thức ăn gồm cỏ khô, cây bụi và thực vật chịu hạn. Loài này thường sống theo đàn nhỏ và có khả năng di chuyển quãng đường dài để tìm nước và thức ăn. Chúng hoạt động chủ yếu vào sáng sớm và chiều tối để tránh cái nóng ban ngày.";
+const biography = "Equus hemionus là loài động vật móng guốc thích nghi tốt với môi trường khắc nghiệt của Trung Á. Trước đây, chúng phân bố rộng nhưng số lượng đã suy giảm do săn bắt và cạnh tranh với gia súc. Hiện nay, loài này được bảo vệ ở nhiều khu vực và có các chương trình bảo tồn nhằm phục hồi quần thể trong tự nhiên.";

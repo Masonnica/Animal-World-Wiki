@@ -1,0 +1,6 @@
+const scname = "Eolophus Roseicapilla";
+const vnname = "Vẹt mỏ đỏ mào hồng";
+const tags = "Úc";
+const appearance = "- Kích thước trung bình, thân chắc khỏe\n- Bộ lông màu xám nhạt, bụng hơi nhạt hơn\n- Mào hồng đỏ nổi bật trên đầu, dựng lên khi kích động\n- Mỏ cong, mạnh, thích hợp cắn và bẻ hạt\n- Đuôi dài, màu xám với các lông viền sáng hơn";
+const lifestyle = "Vẹt mỏ đỏ mào hồng sống ở các khu rừng thưa, đồng cỏ, và vùng nông nghiệp tại Úc. Chúng là loài ăn tạp, thức ăn gồm hạt, quả, nụ hoa, và đôi khi côn trùng nhỏ. Loài này thường sống theo đàn lớn, rất xã hội và hoạt động chủ yếu vào ban ngày. Chúng bay xa để tìm thức ăn và nước, đồng thời giao tiếp bằng nhiều âm thanh khác nhau.";
+const biography = "Eolophus roseicapilla là loài vẹt đặc trưng của Úc, nổi bật với màu sắc tươi sáng và hành vi xã hội phức tạp. Chúng đóng vai trò quan trọng trong việc phát tán hạt và duy trì cân bằng sinh thái. Hiện nay, loài này có phân bố rộng và số lượng ổn định, mặc dù đôi khi bị xem là gây hại nông nghiệp do ăn mùa màng.";

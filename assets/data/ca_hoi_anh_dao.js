@@ -1,0 +1,6 @@
+const scname = "Oncorhynchus Masou";
+const vnname = "Cá hồi anh đào";
+const tags = "Đông Á";
+const appearance = "- Thân hình thon dài, thích nghi tốt với việc bơi ngược dòng\n- Lưng màu xanh xám hoặc xanh ô liu, bụng bạc sáng\n- Hai bên thân có các đốm đen nhỏ phân bố rải rác\n- Vào mùa sinh sản, cơ thể chuyển sang màu đỏ hồng nổi bật\n- Kích thước trung bình khoảng 30–70 cm";
+const lifestyle = "Cá hồi anh đào sinh sống ở các con sông, suối nước lạnh và vùng biển ven bờ tại Đông Á như Nhật Bản, Hàn Quốc và vùng Viễn Đông Nga. Chúng là loài di cư, sinh ra ở nước ngọt, sau đó di chuyển ra biển để lớn lên rồi quay trở lại sông để sinh sản. Thức ăn gồm côn trùng, động vật giáp xác và cá nhỏ. Loài này có khả năng bơi ngược dòng mạnh mẽ để vượt qua thác ghềnh khi đến mùa sinh sản.";
+const biography = "Oncorhynchus masou là một loài cá hồi quan trọng trong hệ sinh thái và văn hóa ẩm thực Đông Á, đặc biệt ở Nhật Bản. Chúng nổi bật với vòng đời di cư đặc trưng và màu sắc thay đổi theo mùa sinh sản. Tuy nhiên, quần thể của loài này đang bị ảnh hưởng bởi ô nhiễm nguồn nước, xây dựng đập và khai thác quá mức ở một số khu vực.";

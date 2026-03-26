@@ -1,0 +1,6 @@
+const scname = "Podoces Panderi";
+const vnname = "Quạ đất Trung Á";
+const tags = "Trung Á";
+const appearance = "- Kích thước trung bình, thân thon dài\n- Bộ lông màu cát hoặc nâu nhạt, phù hợp với môi trường sa mạc\n- Cánh có màu sẫm hơn, tạo sự tương phản nhẹ\n- Mỏ dài, hơi cong, thích hợp đào bới tìm thức ăn\n- Chân dài và khỏe, giúp chạy nhanh trên mặt đất";
+const lifestyle = "Quạ đất Trung Á sống chủ yếu ở các vùng sa mạc và bán sa mạc tại Trung Á. Chúng thích nghi tốt với môi trường khô hạn, thường kiếm ăn trên mặt đất. Thức ăn gồm côn trùng, hạt, thằn lằn và các động vật nhỏ. Loài này di chuyển chủ yếu bằng cách chạy thay vì bay, và thường sống đơn độc hoặc theo cặp.";
+const biography = "Podoces panderi là một loài chim đặc trưng của các vùng sa mạc Trung Á, nổi bật với khả năng thích nghi với điều kiện khắc nghiệt. Chúng đóng vai trò quan trọng trong hệ sinh thái bằng cách kiểm soát côn trùng và phát tán hạt. Hiện nay, loài này chưa bị đe dọa nghiêm trọng, nhưng môi trường sống của chúng có thể bị ảnh hưởng bởi biến đổi khí hậu và hoạt động của con người.";

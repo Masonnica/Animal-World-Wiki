@@ -1,0 +1,6 @@
+const scname = "Sarcophilus Harrisii";
+const vnname = "Quỷ Tasmania";
+const tags = "Úc";
+const appearance = "- Kích thước trung bình, thân hình chắc nặng\n- Bộ lông màu nâu sẫm hoặc đen, bụng có thể có các mảng trắng\n- Đầu lớn, hàm khỏe với răng sắc nhọn\n- Tai tròn, nhỏ, linh hoạt trong việc nghe\n- Chân ngắn nhưng mạnh, thích hợp di chuyển nhanh trên đất";
+const lifestyle = "Quỷ Tasmania sống chủ yếu ở rừng, bụi rậm và các khu vực đồng cỏ tại đảo Tasmania, Úc. Chúng là loài ăn tạp, thức ăn gồm xác động vật, động vật nhỏ, côn trùng và thực vật. Loài này hoạt động về đêm, săn mồi đơn độc hoặc theo nhóm nhỏ, và có thể phát ra tiếng kêu lớn khi giao tiếp hoặc tranh thức ăn.";
+const biography = "Sarcophilus harrisii là loài thú có vú nổi tiếng của Úc, đặc biệt ở Tasmania, nổi bật với sức mạnh và bản năng săn mồi. Hiện nay, loài này đang bị đe dọa nghiêm trọng do bệnh tật, mất môi trường sống và cạnh tranh với các loài ngoại lai. Nhiều chương trình bảo tồn đang được triển khai để duy trì và phục hồi quần thể quỷ Tasmania trong tự nhiên.";

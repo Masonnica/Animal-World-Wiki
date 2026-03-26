@@ -1,0 +1,6 @@
+const scname = "Macropus Rufus";
+const vnname = "Kangaroo đỏ";
+const tags = "Úc";
+const appearance = "- Kích thước rất lớn, là loài kangaroo lớn nhất\n- Bộ lông màu đỏ nâu, bụng nhạt hơn\n- Chân sau dài, cơ bắp, thích hợp nhảy xa\n- Chân trước nhỏ hơn, dùng để cầm nắm thức ăn\n- Đuôi dài, dày, dùng giữ thăng bằng khi di chuyển";
+const lifestyle = "Kangaroo đỏ sống chủ yếu ở các vùng đồng cỏ khô, sa mạc và bán sa mạc tại Úc. Chúng là loài ăn cỏ, thức ăn gồm cỏ, lá và các loại thực vật khô. Loài này sống theo đàn, đặc biệt là nhóm đực hoặc hỗn hợp, di chuyển bằng cách nhảy để tiết kiệm năng lượng. Chúng hoạt động chủ yếu vào sáng sớm và chiều tối để tránh cái nóng ban ngày.";
+const biography = "Macropus rufus là biểu tượng nổi tiếng của Úc, đóng vai trò quan trọng trong hệ sinh thái đồng cỏ bằng cách kiểm soát thực vật và phân tán hạt. Nhờ khả năng thích nghi cao với môi trường khô hạn, loài này vẫn duy trì số lượng ổn định trên toàn lục địa, mặc dù đôi khi phải cạnh tranh với gia súc và bị ảnh hưởng bởi biến đổi khí hậu.";

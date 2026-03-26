@@ -1,0 +1,6 @@
+const scname = "Schizothorax Intermedius";
+const vnname = "Cá chép tuyết Trung Á";
+const tags = "Trung Á";
+const appearance = "- Thân hình thon dài, thích nghi với dòng nước chảy mạnh\n- Lưng màu xám hoặc nâu sẫm, bụng sáng hơn\n- Vảy nhỏ, bám chắc vào cơ thể\n- Miệng ở phía dưới, có môi dày thích hợp cạo tảo trên đá\n- Vây phát triển giúp giữ thăng bằng trong dòng nước xiết";
+const lifestyle = "Cá chép tuyết Trung Á sống ở các con sông và suối nước lạnh vùng núi cao tại Trung Á. Chúng thích nghi tốt với môi trường nước có nhiệt độ thấp và giàu oxy. Thức ăn chủ yếu là tảo, thực vật thủy sinh và các sinh vật nhỏ bám trên đá. Loài này thường sống gần đáy và di chuyển chậm để tiết kiệm năng lượng trong dòng nước mạnh.";
+const biography = "Schizothorax intermedius là một trong những loài cá đặc trưng của các hệ thống sông núi cao ở Trung Á. Chúng đóng vai trò quan trọng trong hệ sinh thái nước ngọt bằng cách duy trì cân bằng sinh học. Tuy nhiên, loài này có thể bị ảnh hưởng bởi ô nhiễm nguồn nước, xây dựng đập và biến đổi khí hậu, làm thay đổi môi trường sống tự nhiên.";

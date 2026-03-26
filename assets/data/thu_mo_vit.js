@@ -1,0 +1,6 @@
+const scname = "Ornithorhynchus Anatinus";
+const vnname = "Thú mỏ vịt";
+const tags = "Úc";
+const appearance = "- Thân dài, dẹt, phủ lông mịn màu nâu sẫm\n- Mỏ rộng, mềm, giống mỏ vịt, màu xám nhạt\n- Chân có màng bơi, thích nghi với đời sống bán nước\n- Đuôi dẹp, giống đuôi castor, dùng để dự trữ mỡ và thăng bằng\n- Kích thước trung bình khoảng 40–50 cm, cân nặng 1–2,5 kg";
+const lifestyle = "Thú mỏ vịt sống ở sông, suối và hồ ngọt tại Úc và Tasmania. Chúng là loài bán thủy sinh, thức ăn chủ yếu gồm giáp xác, côn trùng nước và giun. Thú mỏ vịt hoạt động ban đêm và lặn để tìm thức ăn, sử dụng mỏ nhạy cảm để dò tìm con mồi dưới nước. Chúng đào hang ven bờ sông để sinh sống và bảo vệ con non.";
+const biography = "Ornithorhynchus anatinus là loài thú đặc hữu của Úc, nổi bật với hình dạng độc đáo và khả năng sinh sống bán thủy sinh. Chúng đóng vai trò quan trọng trong hệ sinh thái nước ngọt bằng cách kiểm soát côn trùng và giáp xác. Hiện nay, loài này có phân bố rộng và số lượng ổn định, mặc dù đôi khi bị ảnh hưởng bởi ô nhiễm nước và thay đổi môi trường sống.";

@@ -1,0 +1,6 @@
+const scname = "Otocolobus Manul";
+const vnname = "Mèo manul";
+const tags = "Trung Á";
+const appearance = "- Kích thước nhỏ, thân hình tròn và thấp\n- Bộ lông rất dày, màu xám bạc với các vệt sọc mờ\n- Mặt rộng, dẹt, tai nhỏ và đặt thấp hai bên đầu\n- Mắt tròn, đồng tử co lại thành hình tròn thay vì khe dọc\n- Đuôi dày, có các vòng sọc đen rõ rệt";
+const lifestyle = "Mèo manul sống ở các vùng thảo nguyên, bán sa mạc và khu vực núi đá tại Trung Á. Chúng là loài săn mồi đơn độc, thức ăn chủ yếu gồm loài gặm nhấm, chim nhỏ và côn trùng. Loài này hoạt động vào sáng sớm và chiều tối, thường ẩn nấp trong hang đá hoặc bụi rậm để tránh kẻ thù và thời tiết khắc nghiệt. Chúng di chuyển chậm và dựa vào khả năng ngụy trang để săn mồi.";
+const biography = "Otocolobus manul là một trong những loài mèo hoang dã cổ xưa nhất còn tồn tại. Chúng thích nghi tốt với môi trường lạnh và khô của Trung Á nhờ bộ lông dày đặc. Tuy nhiên, loài này đang đối mặt với nhiều mối đe dọa như mất môi trường sống, săn bắt và suy giảm nguồn thức ăn. Hiện nay, mèo manul được xếp vào nhóm cần được bảo vệ và đang được nghiên cứu, bảo tồn ở nhiều khu vực.";

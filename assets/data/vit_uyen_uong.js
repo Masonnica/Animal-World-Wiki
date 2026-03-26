@@ -1,0 +1,6 @@
+const scname = "Aix Galericulata";
+const vnname = "Vịt uyên ương";
+const tags = "Đông Á";
+const appearance = "- Con đực có bộ lông rất sặc sỡ với nhiều màu như cam, xanh, tím và trắng\n- Đặc trưng nổi bật là hai lông cánh dựng đứng màu cam giống “cánh buồm”\n- Mặt có hoa văn rõ nét với các dải màu tương phản\n- Con cái có màu nâu xám nhạt, ít nổi bật hơn, có vòng trắng quanh mắt\n- Kích thước nhỏ đến trung bình, dài khoảng 40–50 cm";
+const lifestyle = "Vịt uyên ương sống ở các khu vực sông, hồ, đầm lầy và rừng gần nước tại Đông Á, đặc biệt ở Trung Quốc, Nhật Bản và Hàn Quốc. Chúng ăn tạp, thức ăn gồm hạt, quả, thực vật thủy sinh, côn trùng và động vật nhỏ. Loài này thường bơi giỏi và cũng có khả năng bay linh hoạt trong rừng. Chúng thường sống theo cặp và được biết đến với tập tính gắn bó lâu dài giữa con đực và con cái.";
+const biography = "Aix galericulata là loài vịt nổi tiếng trong văn hóa Đông Á, đặc biệt được xem là biểu tượng của tình yêu và sự chung thủy. Chúng từng có số lượng lớn trong tự nhiên nhưng bị suy giảm ở một số khu vực do mất môi trường sống và săn bắt. Hiện nay, loài này vẫn tồn tại ổn định ở nhiều nơi và còn được nuôi, thả trong các công viên và khu bảo tồn trên thế giới.";

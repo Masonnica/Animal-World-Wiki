@@ -1,0 +1,6 @@
+const scname = "Emberiza Elegans";
+const vnname = "Chim sẻ núi cổ vàng";
+const tags = "Đông Á";
+const appearance = "- Kích thước nhỏ, thân thon gọn\n- Đầu có sọc đen trắng rõ rệt, tạo hoa văn nổi bật\n- Cổ và ngực trên có màu vàng tươi đặc trưng\n- Lưng màu nâu với các vệt sọc đậm giúp ngụy trang\n- Mỏ ngắn, hình nón, thích hợp ăn hạt";
+const lifestyle = "Chim sẻ núi cổ vàng sống ở các khu vực rừng thưa, bụi rậm, ven núi và đồng cỏ tại Đông Á như Trung Quốc, Hàn Quốc và Nhật Bản. Chúng ăn chủ yếu là hạt, ngoài ra còn ăn côn trùng nhỏ, đặc biệt trong mùa sinh sản để bổ sung dinh dưỡng. Loài này thường hoạt động theo cặp hoặc đàn nhỏ, kiếm ăn dưới đất và bay lên cây khi có nguy hiểm.";
+const biography = "Emberiza elegans là một loài chim nhỏ phổ biến ở Đông Á, nổi bật với màu sắc tương phản và tiếng hót nhẹ nhàng. Chúng thích nghi tốt với nhiều môi trường sống khác nhau, từ vùng núi đến khu vực gần con người. Hiện nay, loài này chưa bị đe dọa nghiêm trọng và vẫn duy trì quần thể ổn định trong tự nhiên.";

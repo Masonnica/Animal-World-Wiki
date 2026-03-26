@@ -1,0 +1,6 @@
+const scname = "Spilornis Cheela";
+const vnname = "Đại bàng rắn";
+const tags = "Đông Á";
+const appearance = "- Kích thước trung bình, thân chắc khỏe\n- Bộ lông chủ yếu màu nâu sẫm, phần bụng có đốm trắng\n- Đầu to, mắt vàng nổi bật, tạo vẻ dữ dằn\n- Cánh rộng, đuôi ngắn với các vạch ngang rõ rệt\n- Chân khỏe, móng vuốt sắc bén thích hợp để săn mồi";
+const lifestyle = "Đại bàng rắn sống chủ yếu trong rừng nhiệt đới, rừng thưa và khu vực đồi núi tại Đông Á và Đông Nam Á. Thức ăn chính của chúng là rắn, ngoài ra còn ăn thằn lằn, ếch và các động vật nhỏ khác. Chúng thường săn mồi từ trên cao, quan sát con mồi rồi lao xuống nhanh để bắt. Loài này sống đơn độc hoặc theo cặp và có lãnh thổ riêng.";
+const biography = "Spilornis cheela là một loài chim săn mồi phổ biến trong khu vực châu Á, đặc biệt nổi bật với khả năng săn rắn hiệu quả. Chúng đóng vai trò quan trọng trong việc kiểm soát số lượng các loài bò sát trong hệ sinh thái. Hiện nay, loài này chưa bị đe dọa nghiêm trọng và vẫn phân bố rộng, tuy nhiên ở một số nơi, số lượng có thể bị ảnh hưởng do mất rừng và tác động của con người.";

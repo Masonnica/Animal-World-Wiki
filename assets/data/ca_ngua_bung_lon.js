@@ -1,0 +1,6 @@
+const scname = "Hippocampus Abdominalis";
+const vnname = "Cá ngựa bụng lớn";
+const tags = "Úc";
+const appearance = "- Thân nhỏ, uốn cong hình chữ “S”, vảy cứng bảo vệ cơ thể\n- Bụng phình to, đặc trưng của loài này\n- Màu sắc đa dạng, từ nâu, vàng đến cam hoặc đỏ tươi\n- Đuôi cuộn, linh hoạt, dùng bám vào cỏ biển hoặc san hô\n- Đầu nhỏ, mõm dài và hẹp, thích hợp hút động vật phù du";
+const lifestyle = "Cá ngựa bụng lớn sống ở các vùng nước nông, cỏ biển và rạn san hô ven bờ Úc. Chúng là loài ăn động vật phù du nhỏ và các loài thủy sinh nhỏ. Loài này bơi chậm, dùng đuôi cuộn bám vào cây hoặc rạn san hô để giữ vị trí và tránh kẻ thù. Cá ngựa bụng lớn thường sống đơn độc hoặc theo cặp trong mùa sinh sản.";
+const biography = "Hippocampus abdominalis là loài cá ngựa lớn nhất ở Úc, nổi bật với khả năng nuôi con ở bụng đực. Chúng có giá trị sinh thái cao trong việc duy trì cân bằng quần thể sinh vật phù du và là loài được nghiên cứu nhiều trong sinh học biển. Hiện nay, loài này đang được bảo vệ do bị khai thác quá mức và mất môi trường sống tự nhiên.";

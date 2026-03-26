@@ -1,0 +1,6 @@
+const scname = "Dromaius Novaehollandiae";
+const vnname = "Đà điểu Emu";
+const tags = "Úc";
+const appearance = "- Kích thước lớn, là một trong những loài chim không biết bay lớn nhất\n- Bộ lông màu nâu xám, mềm và xù, giúp chịu nhiệt tốt\n- Cổ dài, đầu nhỏ, mỏ ngắn\n- Chân dài, rất khỏe, có thể chạy nhanh\n- Chiều cao có thể đạt khoảng 1,5–1,9 m";
+const lifestyle = "Đà điểu Emu sống ở các vùng đồng cỏ, savan và rừng thưa tại Úc. Chúng là loài ăn tạp, thức ăn gồm hạt, quả, côn trùng và các động vật nhỏ. Emu có thể di chuyển quãng đường dài để tìm thức ăn và nước. Chúng không bay được nhưng có thể chạy với tốc độ cao để tránh kẻ thù. Loài này thường sống đơn độc hoặc theo nhóm nhỏ.";
+const biography = "Dromaius novaehollandiae là loài chim đặc trưng của Úc và có vai trò quan trọng trong hệ sinh thái, đặc biệt trong việc phát tán hạt giống. Chúng xuất hiện rộng khắp lục địa Úc và thích nghi tốt với nhiều môi trường khác nhau. Hiện nay, loài này có số lượng ổn định và không bị đe dọa nghiêm trọng.";

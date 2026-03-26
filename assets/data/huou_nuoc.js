@@ -1,0 +1,6 @@
+const scname = "Hydropotes Inermis";
+const vnname = "Hươu nước";
+const tags = "Đông Á";
+const appearance = "- Kích thước nhỏ đến trung bình, thân hình thon gọn\n- Bộ lông màu nâu vàng hoặc nâu xám, phần bụng nhạt màu hơn\n- Không có sừng, thay vào đó con đực có răng nanh dài nhô ra như “ngà”\n- Tai lớn, tròn, giúp nghe tốt trong môi trường hoang dã\n- Chân mảnh nhưng khỏe, thích nghi với việc di chuyển nhanh";
+const lifestyle = "Hươu nước sống ở các vùng đầm lầy, ven sông, hồ và đồng cỏ ẩm tại Đông Á, đặc biệt ở Trung Quốc và bán đảo Triều Tiên. Chúng là loài ăn cỏ, thức ăn gồm cỏ, lá cây và thực vật thủy sinh. Loài này hoạt động chủ yếu vào sáng sớm và chiều tối, thường sống đơn độc hoặc theo cặp. Khi gặp nguy hiểm, chúng có thể chạy rất nhanh và ẩn nấp trong thảm thực vật dày.";
+const biography = "Hydropotes inermis là loài hươu đặc biệt vì không có sừng, thay vào đó phát triển răng nanh dài, khiến chúng còn được gọi là “hươu ma cà rồng”. Chúng đã thích nghi tốt với môi trường đất ngập nước và đóng vai trò quan trọng trong hệ sinh thái. Hiện nay, loài này vẫn tồn tại trong tự nhiên nhưng bị đe dọa bởi mất môi trường sống và săn bắt ở một số khu vực.";

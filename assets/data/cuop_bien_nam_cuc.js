@@ -1,0 +1,6 @@
+const scname = "Stercorarius Maccormicki";
+const vnname = "Cướp biển Nam Cực";
+const tags = "Nam Cực";
+const appearance = "- Kích thước trung bình, thân chắc khỏe\n- Bộ lông màu nâu sẫm hoặc nâu nhạt, có biến thể màu\n- Cánh dài, nhọn, thích hợp bay xa\n- Mỏ khỏe, cong nhẹ, màu đen\n- Chân mạnh, thích nghi với việc đi lại trên mặt đất";
+const lifestyle = "Cướp biển Nam Cực sống ở vùng ven biển và các đảo quanh Nam Cực. Chúng là loài ăn tạp, thức ăn gồm cá, động vật nhỏ, trứng và chim non của các loài khác. Loài này nổi tiếng với hành vi “cướp mồi” từ các loài chim biển khác bằng cách đuổi theo và buộc chúng nhả thức ăn. Chúng hoạt động ban ngày và thường sống đơn độc hoặc theo cặp trong mùa sinh sản.";
+const biography = "Stercorarius maccormicki là loài chim săn mồi cơ hội, đóng vai trò quan trọng trong hệ sinh thái Nam Cực bằng cách kiểm soát quần thể các loài khác. Chúng thích nghi tốt với môi trường khắc nghiệt và có phạm vi phân bố rộng quanh khu vực này. Hiện nay, loài này chưa bị đe dọa nghiêm trọng, nhưng có thể chịu ảnh hưởng từ biến đổi khí hậu và sự thay đổi nguồn thức ăn.";

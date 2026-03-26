@@ -1,0 +1,6 @@
+const scname = "Ovibos Moschatus";
+const vnname = "Bò xạ hương";
+const tags = "Bắc Cực";
+const appearance = "- Thân hình lớn, chắc khỏe, thấp và dài\n- Bộ lông rất dày và dài, màu nâu sẫm, giúp chống lạnh\n- Cả con đực và con cái đều có sừng cong xuống rồi uốn lên\n- Đầu to, cổ ngắn, vai rộng\n- Chân ngắn nhưng khỏe, thích nghi với địa hình băng tuyết";
+const lifestyle = "Bò xạ hương sống ở các vùng lãnh nguyên lạnh giá tại Bắc Cực. Chúng là loài ăn cỏ, thức ăn gồm cỏ, rêu, địa y và các loại thực vật thấp. Loài này sống theo đàn, có tập tính bảo vệ nhau bằng cách đứng thành vòng tròn khi bị đe dọa. Chúng hoạt động quanh năm và có khả năng chịu lạnh rất tốt.";
+const biography = "Ovibos moschatus là loài động vật cổ xưa còn tồn tại từ thời kỳ băng hà. Chúng đóng vai trò quan trọng trong hệ sinh thái lãnh nguyên và là nguồn tài nguyên cho con người bản địa. Hiện nay, loài này có số lượng ổn định ở một số khu vực, tuy nhiên vẫn cần được bảo vệ trước tác động của biến đổi khí hậu và săn bắt.";

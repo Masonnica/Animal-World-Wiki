@@ -1,0 +1,6 @@
+const scname = "Grus Japonensis";
+const vnname = "Sếu đầu đỏ";
+const tags = "Đông Á";
+const appearance = "- Bộ lông chủ yếu màu trắng, nổi bật với vùng đầu màu đỏ không có lông\n- Cánh có phần lông đen tạo sự tương phản rõ rệt khi dang rộng\n- Cổ dài, thẳng, chân cao và thon giúp di chuyển trong vùng nước nông\n- Mỏ dài, nhọn, thích hợp để kiếm ăn dưới bùn hoặc nước\n- Chiều cao có thể đạt khoảng 1,5 m, sải cánh dài tới 2,4 m";
+const lifestyle = "Sếu đầu đỏ thường sinh sống ở các vùng đầm lầy, đồng cỏ ngập nước và ruộng lúa tại Đông Á như Nhật Bản, Trung Quốc và Nga. Chúng là loài ăn tạp, thức ăn bao gồm cá nhỏ, côn trùng, ếch, động vật giáp xác và thực vật thủy sinh. Loài này nổi tiếng với những điệu nhảy ghép đôi đặc trưng, thường được thực hiện để gắn kết cặp đôi hoặc trong mùa sinh sản. Sếu đầu đỏ sống theo cặp hoặc nhóm nhỏ và có tính lãnh thổ khá cao.";
+const biography = "Grus japonensis là một trong những loài sếu hiếm và có giá trị biểu tượng cao ở Đông Á, đặc biệt tại Nhật Bản, nơi chúng tượng trưng cho sự trường thọ và may mắn. Trong quá khứ, số lượng của chúng suy giảm mạnh do mất môi trường sống và săn bắt. Nhờ các nỗ lực bảo tồn, quần thể sếu đầu đỏ đã dần phục hồi, tuy nhiên chúng vẫn được xếp vào nhóm loài nguy cấp và cần được bảo vệ nghiêm ngặt.";

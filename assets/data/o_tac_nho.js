@@ -1,0 +1,6 @@
+const scname = "Tetrax Tetrax";
+const vnname = "Ô tác nhỏ";
+const tags = "Trung Á";
+const appearance = "- Kích thước nhỏ hơn so với các loài ô tác khác\n- Bộ lông màu nâu vàng với các vệt đen giúp ngụy trang tốt\n- Phần bụng trắng, cánh có mảng trắng rõ khi bay\n- Con đực có cổ đen với hai dải trắng nổi bật trong mùa sinh sản\n- Chân dài, thích nghi với việc chạy trên mặt đất";
+const lifestyle = "Ô tác nhỏ sống ở các vùng thảo nguyên, đồng cỏ và đất canh tác tại Trung Á và một phần châu Âu. Chúng là loài ăn tạp, thức ăn gồm hạt, thực vật và côn trùng. Loài này chủ yếu sống trên mặt đất, chạy nhanh khi gặp nguy hiểm và chỉ bay khi cần thiết. Chúng hoạt động ban ngày và thường sống đơn lẻ hoặc theo nhóm nhỏ.";
+const biography = "Tetrax tetrax là loài chim đặc trưng của hệ sinh thái thảo nguyên Á-Âu. Trong những năm gần đây, số lượng của chúng đã suy giảm do mất môi trường sống và thay đổi trong hoạt động nông nghiệp. Hiện nay, loài này được bảo vệ ở nhiều khu vực và đang có các chương trình bảo tồn nhằm duy trì quần thể trong tự nhiên.";

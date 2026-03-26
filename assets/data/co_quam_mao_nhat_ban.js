@@ -1,0 +1,6 @@
+const scname = "Nipponia Nippon";
+const vnname = "Cò quăm mào Nhật Bản";
+const tags = "Đông Á";
+const appearance = "- Bộ lông màu trắng pha hồng nhạt, đặc biệt rõ hơn vào mùa sinh sản\n- Đầu có mào lông dài màu trắng xám dựng nhẹ ra sau\n- Mặt không có lông, da có màu đỏ\n- Mỏ dài, cong xuống, màu đen pha đỏ ở phần gốc\n- Chân dài, màu xám đen, thích nghi với việc lội nước kiếm ăn";
+const lifestyle = "Cò quăm mào Nhật Bản sống ở các vùng đầm lầy, ruộng lúa và khu vực đất ngập nước tại Đông Á, đặc biệt là Trung Quốc và Nhật Bản. Chúng kiếm ăn bằng cách dùng mỏ dò tìm trong bùn để bắt cá nhỏ, ếch, côn trùng và các sinh vật thủy sinh. Loài này thường sống theo nhóm nhỏ và làm tổ trên cây cao gần nguồn nước. Chúng hoạt động chủ yếu vào ban ngày và có tập tính di chuyển theo mùa ở một số khu vực.";
+const biography = "Nipponia nippon từng phân bố rộng rãi ở Đông Á nhưng đã suy giảm nghiêm trọng do mất môi trường sống, ô nhiễm và săn bắt. Đến cuối thế kỷ 20, loài này gần như tuyệt chủng ngoài tự nhiên. Tuy nhiên, nhờ các chương trình bảo tồn và nhân giống thành công, đặc biệt tại Trung Quốc, quần thể của chúng đã dần phục hồi. Hiện nay, cò quăm mào Nhật Bản vẫn được xếp vào nhóm loài nguy cấp và là biểu tượng cho nỗ lực bảo tồn động vật hoang dã.";

@@ -1,0 +1,6 @@
+const scname = "Melanocorypha Calandra";
+const vnname = "Chiền chiện lớn";
+const tags = "Trung Á";
+const appearance = "- Kích thước trung bình đến lớn trong họ chim chiền chiện\n- Bộ lông màu nâu xám với các vệt sọc đậm giúp ngụy trang\n- Ngực có hai đốm đen đặc trưng ở hai bên\n- Mỏ dày, khỏe, thích hợp ăn hạt\n- Cánh rộng, giúp bay lượn trên không trung";
+const lifestyle = "Chiền chiện lớn sống ở các vùng thảo nguyên, đồng cỏ khô và đất canh tác tại Trung Á và một phần châu Âu. Chúng ăn chủ yếu là hạt, ngoài ra còn ăn côn trùng, đặc biệt trong mùa sinh sản. Loài này thường kiếm ăn trên mặt đất nhưng bay lên cao để hót, với tiếng hót vang và kéo dài. Chúng sống theo đàn, đặc biệt ngoài mùa sinh sản.";
+const biography = "Melanocorypha calandra là loài chim điển hình của hệ sinh thái thảo nguyên rộng lớn. Chúng đóng vai trò quan trọng trong việc phát tán hạt và kiểm soát côn trùng. Mặc dù vẫn còn phân bố rộng, quần thể của loài này ở một số khu vực đang bị ảnh hưởng do thay đổi môi trường sống và hoạt động nông nghiệp.";

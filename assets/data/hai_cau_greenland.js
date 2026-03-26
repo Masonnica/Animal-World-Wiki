@@ -1,0 +1,6 @@
+const scname = "Pagophilus Groenlandicus";
+const vnname = "Hải cẩu Greenland";
+const tags = "Bắc Cực";
+const appearance = "- Thân hình trung bình, thon dài\n- Bộ lông màu xám bạc, có hoa văn đen hình “đàn hạc” trên lưng\n- Con non có lông trắng hoàn toàn trong giai đoạn đầu đời\n- Đầu tròn, mắt lớn, thích nghi với môi trường lạnh\n- Vây trước và sau phát triển, giúp bơi lội hiệu quả";
+const lifestyle = "Hải cẩu Greenland sống ở vùng biển băng giá Bắc Cực và Bắc Đại Tây Dương. Chúng là loài ăn thịt, thức ăn gồm cá và động vật không xương sống. Loài này di cư theo mùa và thường tụ tập thành đàn lớn trên băng để sinh sản và nghỉ ngơi. Chúng bơi rất giỏi và có thể lặn sâu để tìm thức ăn.";
+const biography = "Pagophilus groenlandicus là loài hải cẩu quan trọng trong hệ sinh thái Bắc Cực, đóng vai trò trong chuỗi thức ăn biển. Trong quá khứ, chúng bị săn bắt nhiều để lấy lông và mỡ. Hiện nay, loài này vẫn có số lượng khá lớn nhưng đang chịu ảnh hưởng từ biến đổi khí hậu làm giảm diện tích băng biển – môi trường sống quan trọng của chúng.";

@@ -1,0 +1,6 @@
+const scname = "Saiga Tatarica";
+const vnname = "Linh dương saiga";
+const tags = "Trung Á";
+const appearance = "- Kích thước trung bình, thân hình thon gọn\n- Bộ lông màu vàng nhạt vào mùa hè, chuyển sang dày và nhạt hơn vào mùa đông\n- Mũi lớn, phồng xuống như vòi ngắn, rất đặc trưng\n- Con đực có sừng màu vàng nhạt, hơi cong và có vân vòng\n- Chân dài, thích nghi với việc di chuyển nhanh trên thảo nguyên";
+const lifestyle = "Linh dương saiga sống ở các vùng thảo nguyên và bán sa mạc rộng lớn tại Trung Á. Chúng là loài ăn cỏ, thức ăn gồm cỏ, cây bụi và các loài thực vật hoang dã. Loài này thường di cư theo mùa với số lượng lớn để tìm nguồn thức ăn và nước. Chúng sống theo đàn lớn và có khả năng chạy rất nhanh để tránh kẻ săn mồi.";
+const biography = "Saiga tatarica là loài động vật đặc trưng của thảo nguyên Á-Âu, nổi bật với chiếc mũi đặc biệt giúp lọc bụi và làm ấm không khí lạnh. Trong những thập kỷ gần đây, số lượng của chúng giảm mạnh do săn bắt trái phép và dịch bệnh. Hiện nay, loài này đang được bảo vệ nghiêm ngặt và có nhiều nỗ lực quốc tế nhằm phục hồi quần thể trong tự nhiên.";

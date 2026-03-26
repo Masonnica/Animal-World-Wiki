@@ -1,0 +1,6 @@
+const scname = "Panthera Uncia";
+const vnname = "Báo tuyết";
+const tags = "Trung Á";
+const appearance = "- Bộ lông dày màu xám khói với các đốm hoa thị đen\n- Thân hình săn chắc, chân ngắn nhưng khỏe\n- Đuôi rất dài, dày lông giúp giữ thăng bằng và giữ ấm\n- Đầu nhỏ, tai tròn, thích nghi với môi trường lạnh\n- Bàn chân rộng, như “giày tuyết” giúp di chuyển trên băng tuyết";
+const lifestyle = "Báo tuyết sống ở các vùng núi cao, lạnh giá tại Trung Á, thường ở độ cao từ 3.000–5.000 m. Chúng là loài săn mồi đơn độc, thức ăn gồm dê núi, cừu hoang và các động vật nhỏ. Loài này có khả năng leo trèo và nhảy rất xa trên địa hình hiểm trở. Chúng hoạt động chủ yếu vào lúc bình minh và hoàng hôn.";
+const biography = "Panthera uncia là một trong những loài mèo lớn hiếm nhất thế giới, thường được gọi là “bóng ma của núi”. Chúng phân bố rải rác trên dãy Himalaya và các vùng núi Trung Á. Hiện nay, loài này đang bị đe dọa do săn bắt trái phép và mất môi trường sống. Nhiều chương trình bảo tồn quốc tế đang được triển khai nhằm bảo vệ và duy trì quần thể báo tuyết trong tự nhiên.";

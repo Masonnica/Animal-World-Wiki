@@ -1,0 +1,6 @@
+const scname = "Prionailurus Bengalensis";
+const vnname = "Mèo rừng châu Á";
+const tags = "Đông Á";
+const appearance = "- Kích thước nhỏ, thân thon gọn giống mèo nhà\n- Bộ lông màu vàng nâu hoặc xám, phủ đầy các đốm đen\n- Mặt có các sọc đen rõ rệt chạy từ mắt xuống má\n- Tai nhỏ, tròn, phía sau có đốm trắng\n- Đuôi dài, có các vòng sọc đen";
+const lifestyle = "Mèo rừng châu Á sống trong nhiều môi trường khác nhau như rừng, đồng cỏ, vùng núi và cả khu vực gần con người tại Đông Á và Đông Nam Á. Chúng là loài săn mồi đơn độc, hoạt động chủ yếu vào ban đêm. Thức ăn gồm chuột, chim, bò sát, côn trùng và các động vật nhỏ khác. Loài này có khả năng leo trèo và bơi lội khá tốt.";
+const biography = "Prionailurus bengalensis là một trong những loài mèo hoang dã phổ biến nhất ở châu Á. Chúng có khả năng thích nghi cao với nhiều môi trường sống khác nhau, từ tự nhiên đến khu vực bị con người tác động. Một số quần thể đã được thuần hóa lai tạo để tạo ra giống mèo Bengal nổi tiếng. Hiện nay, loài này vẫn có số lượng ổn định, tuy nhiên ở một số nơi có thể bị đe dọa do mất môi trường sống và săn bắt.";

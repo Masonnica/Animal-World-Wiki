@@ -1,0 +1,6 @@
+const scname = "Pseudoscaphirhynchus Kaufmanni";
+const vnname = "Cá tầm lùn Amu Darya";
+const tags = "Trung Á";
+const appearance = "- Thân dài, thuôn, phủ các tấm giáp cứng dọc theo cơ thể\n- Mõm dài, nhọn, thích nghi với việc dò tìm thức ăn dưới đáy\n- Miệng nằm ở mặt dưới, có thể thò ra để hút thức ăn\n- Đuôi không đối xứng, phần trên dài hơn\n- Màu sắc chủ yếu là xám nâu, giúp ngụy trang dưới đáy sông";
+const lifestyle = "Cá tầm lùn Amu Darya sống ở các con sông lớn tại Trung Á, đặc biệt là hệ thống sông Amu Darya. Chúng là loài sống đáy, thức ăn gồm giun, côn trùng, động vật không xương sống và các mảnh hữu cơ. Loài này di chuyển chậm và thích nghi với môi trường nước đục, chảy mạnh.";
+const biography = "Pseudoscaphirhynchus kaufmanni là loài cá tầm đặc hữu của khu vực Trung Á. Chúng có giá trị sinh học cao do sự thích nghi với môi trường sông đặc biệt. Tuy nhiên, loài này đang bị đe dọa nghiêm trọng do xây dựng đập, thay đổi dòng chảy và ô nhiễm nguồn nước. Hiện nay, chúng được xếp vào nhóm nguy cấp và cần có các biện pháp bảo tồn khẩn cấp để tránh nguy cơ tuyệt chủng.";

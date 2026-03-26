@@ -1,0 +1,6 @@
+const scname = "Paralichthys Olivaceus";
+const vnname = "Cá bơn Nhật Bản";
+const tags = "Đông Á";
+const appearance = "- Thân dẹt, hình bầu dục, thích nghi với việc sống sát đáy biển\n- Hai mắt nằm cùng một bên cơ thể, thường là bên trái\n- Mặt trên màu nâu ô liu với các đốm sẫm giúp ngụy trang\n- Mặt dưới màu trắng nhạt\n- Vây dài chạy dọc theo cơ thể, giúp di chuyển linh hoạt trên đáy";
+const lifestyle = "Cá bơn Nhật Bản sống ở vùng biển ven bờ, đặc biệt là khu vực đáy cát hoặc bùn tại Đông Á như Nhật Bản, Hàn Quốc và Trung Quốc. Chúng là loài săn mồi, thường nằm ẩn mình dưới lớp cát và chờ cơ hội để bắt cá nhỏ, tôm và các động vật đáy khác. Loài này hoạt động chủ yếu vào ban đêm và có khả năng ngụy trang rất tốt để tránh kẻ thù cũng như săn mồi hiệu quả.";
+const biography = "Paralichthys olivaceus là một loài cá có giá trị kinh tế cao và được ưa chuộng trong ẩm thực, đặc biệt tại Nhật Bản. Chúng thường được nuôi trong các trang trại thủy sản bên cạnh việc khai thác tự nhiên. Nhờ khả năng thích nghi tốt với môi trường đáy biển, loài này vẫn duy trì quần thể ổn định, tuy nhiên cũng chịu ảnh hưởng từ ô nhiễm môi trường và khai thác quá mức ở một số khu vực.";

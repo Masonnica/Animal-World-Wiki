@@ -1,0 +1,6 @@
+const scname = "Delphinapterus Leucas";
+const vnname = "Cá voi trắng Beluga";
+const tags = "Bắc Cực";
+const appearance = "- Thân hình trung bình, màu trắng đặc trưng khi trưởng thành\n- Da dày, không có vây lưng, thích nghi với môi trường băng\n- Đầu tròn, trán phồng (melon) linh hoạt\n- Miệng cong nhẹ tạo cảm giác như “mỉm cười”\n- Kích thước dài khoảng 3–5 m, nặng 500–1.500 kg";
+const lifestyle = "Cá voi trắng Beluga sống ở vùng biển lạnh Bắc Cực, thường gần băng biển và cửa sông. Chúng là loài ăn thịt, thức ăn gồm cá, giáp xác và động vật không xương sống. Loài này sống theo đàn và giao tiếp bằng nhiều âm thanh khác nhau, vì vậy còn được gọi là “cá voi biết hát”. Chúng có khả năng di chuyển linh hoạt và thích nghi tốt với môi trường nước lạnh.";
+const biography = "Delphinapterus leucas là loài cá voi đặc trưng của Bắc Cực, nổi bật với màu trắng và khả năng giao tiếp phức tạp. Chúng đóng vai trò quan trọng trong hệ sinh thái biển lạnh. Hiện nay, một số quần thể bị đe dọa do ô nhiễm, tiếng ồn từ tàu thuyền và biến đổi khí hậu, nên đang được theo dõi và bảo vệ.";

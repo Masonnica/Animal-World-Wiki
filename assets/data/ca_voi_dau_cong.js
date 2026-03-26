@@ -1,0 +1,6 @@
+const scname = "Balaena Mysticetus";
+const vnname = "Cá voi đầu cong";
+const tags = "Bắc Cực";
+const appearance = "- Thân hình rất lớn, tròn, không có vây lưng\n- Đầu cực kỳ to, chiếm gần 1/3 chiều dài cơ thể\n- Miệng cong, chứa các tấm sừng hàm dài dùng lọc thức ăn\n- Màu sắc chủ yếu là đen, có mảng trắng ở cằm\n- Lớp mỡ dày giúp giữ ấm trong môi trường băng giá";
+const lifestyle = "Cá voi đầu cong sống hoàn toàn trong vùng biển lạnh của Bắc Cực. Chúng là loài ăn lọc, thức ăn chủ yếu là sinh vật phù du và động vật nhỏ trong nước. Loài này bơi chậm, thường di chuyển theo đàn nhỏ và có khả năng phá lớp băng mỏng để thở. Chúng thích nghi tốt với môi trường nước lạnh và có thể sống gần các tảng băng quanh năm.";
+const biography = "Balaena mysticetus là một trong những loài cá voi sống lâu nhất thế giới, có thể sống hơn 100 năm. Chúng từng bị săn bắt mạnh trong quá khứ nhưng hiện nay đã được bảo vệ ở nhiều nơi. Loài này đóng vai trò quan trọng trong hệ sinh thái biển Bắc Cực, tuy nhiên vẫn chịu ảnh hưởng từ biến đổi khí hậu và hoạt động của con người.";

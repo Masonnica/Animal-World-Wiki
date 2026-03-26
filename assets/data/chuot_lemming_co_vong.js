@@ -1,0 +1,6 @@
+const scname = "Dicrostonyx Torquatus";
+const vnname = "Chuột lemming cổ vòng";
+const tags = "Bắc Cực";
+const appearance = "- Kích thước nhỏ, thân tròn, lông dày\n- Bộ lông thay đổi theo mùa: trắng vào mùa đông, nâu xám vào mùa hè\n- Cổ có vùng lông sẫm màu tạo thành “vòng” đặc trưng\n- Tai rất nhỏ, gần như ẩn trong lông\n- Chân ngắn, móng khỏe, thích nghi đào hang";
+const lifestyle = "Chuột lemming cổ vòng sống ở các vùng lãnh nguyên Bắc Cực. Chúng là loài ăn cỏ, thức ăn gồm rêu, cỏ và các loài thực vật thấp. Loài này hoạt động quanh năm và thường đào hang dưới tuyết để tránh lạnh và kẻ thù. Chúng sinh sản nhanh và có chu kỳ biến động số lượng rõ rệt theo từng năm.";
+const biography = "Dicrostonyx torquatus là loài gặm nhấm quan trọng trong hệ sinh thái Bắc Cực, đóng vai trò là nguồn thức ăn chính cho nhiều loài săn mồi. Khả năng thay đổi màu lông theo mùa giúp chúng ngụy trang hiệu quả. Hiện nay, loài này vẫn phân bố rộng, nhưng có thể bị ảnh hưởng bởi biến đổi khí hậu và sự thay đổi của môi trường sống.";

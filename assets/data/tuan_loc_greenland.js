@@ -1,0 +1,6 @@
+const scname = "Rangifer Tarandus Groenlandicus";
+const vnname = "Tuần lộc Greenland";
+const tags = "Bắc Cực";
+const appearance = "- Kích thước trung bình, thân hình chắc khỏe\n- Bộ lông dày, màu nâu xám, nhạt hơn vào mùa đông\n- Cả con đực và con cái đều có sừng, phân nhánh phức tạp\n- Chân dài, móng rộng giúp di chuyển trên tuyết\n- Cổ có lớp lông dày giúp giữ ấm trong môi trường lạnh";
+const lifestyle = "Tuần lộc Greenland sống ở các vùng lãnh nguyên và đồng cỏ lạnh tại Bắc Cực. Chúng là loài ăn cỏ, thức ăn gồm rêu, địa y, cỏ và cây bụi. Loài này thường di cư theo mùa với đàn lớn để tìm thức ăn và tránh điều kiện thời tiết khắc nghiệt. Chúng hoạt động cả ngày lẫn đêm tùy theo mùa.";
+const biography = "Rangifer tarandus groenlandicus là một phân loài của tuần lộc thích nghi với môi trường lạnh giá ở Greenland và các vùng Bắc Cực. Chúng đóng vai trò quan trọng trong hệ sinh thái lãnh nguyên và là nguồn sống của nhiều cộng đồng bản địa. Hiện nay, loài này vẫn tồn tại trong tự nhiên nhưng có thể bị ảnh hưởng bởi biến đổi khí hậu và thay đổi môi trường sống.";

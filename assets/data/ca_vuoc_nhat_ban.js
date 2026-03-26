@@ -1,0 +1,6 @@
+const scname = "Lateolabrax Japonicus";
+const vnname = "Cá vược Nhật Bản";
+const tags = "Đông Á";
+const appearance = "- Thân dài, hơi dẹt hai bên, hình dạng thuôn giúp bơi nhanh\n- Lưng màu xám xanh, bụng trắng bạc\n- Hai bên thân có các đốm đen nhỏ rải rác\n- Miệng rộng, hàm khỏe, răng nhỏ sắc\n- Kích thước trung bình khoảng 40–70 cm, có thể lớn hơn";
+const lifestyle = "Cá vược Nhật Bản sống ở vùng biển ven bờ, cửa sông và đôi khi vào cả nước ngọt tại Đông Á như Nhật Bản, Hàn Quốc và Trung Quốc. Chúng là loài ăn thịt, thức ăn gồm cá nhỏ, tôm, cua và các động vật thủy sinh khác. Loài này thường hoạt động tích cực vào ban đêm và có khả năng thích nghi với môi trường nước mặn lẫn nước lợ.";
+const biography = "Lateolabrax japonicus là loài cá có giá trị kinh tế cao trong ngành thủy sản Đông Á. Chúng được đánh bắt tự nhiên và cũng được nuôi phổ biến trong các trang trại thủy sản. Nhờ khả năng thích nghi tốt với nhiều môi trường sống, loài này vẫn duy trì số lượng ổn định, tuy nhiên ở một số khu vực có thể bị ảnh hưởng bởi ô nhiễm và khai thác quá mức.";

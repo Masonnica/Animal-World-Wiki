@@ -1,0 +1,6 @@
+const scname = "Nyctereutes Procyonoides Viverrinus";
+const vnname = "Chó gấu Nhật Bản";
+const tags = "Đông Á";
+const appearance = "- Thân hình nhỏ đến trung bình, lông dày và mềm\n- Bộ lông màu nâu xám, có thể thay đổi theo mùa\n- Mặt có “mặt nạ” sẫm màu giống gấu mèo\n- Tai nhỏ, tròn, chân ngắn\n- Đuôi rậm nhưng không có vằn rõ như gấu mèo";
+const lifestyle = "Chó gấu Nhật Bản sinh sống chủ yếu trong rừng, đồng cỏ và cả khu vực gần con người tại Nhật Bản. Chúng là loài ăn tạp, thức ăn bao gồm côn trùng, trái cây, động vật nhỏ và xác thối. Loài này hoạt động chủ yếu vào ban đêm và thường sống theo cặp hoặc gia đình nhỏ. Đặc biệt, chúng là một trong số ít loài thuộc họ chó có khả năng ngủ đông một phần vào mùa lạnh.";
+const biography = "Nyctereutes procyonoides viverrinus là một phân loài đặc hữu của Nhật Bản, thường được gọi là “tanuki” trong văn hóa dân gian. Chúng xuất hiện nhiều trong truyện cổ và được xem là loài vật mang tính biểu tượng, gắn liền với sự tinh nghịch và may mắn. Hiện nay, loài này vẫn khá phổ biến tại Nhật Bản và thích nghi tốt với môi trường thay đổi, bao gồm cả khu vực đô thị.";

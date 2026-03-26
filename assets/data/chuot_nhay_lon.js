@@ -1,0 +1,6 @@
+const scname = "Allactaga Major";
+const vnname = "Chuột nhảy lớn";
+const tags = "Trung Á";
+const appearance = "- Kích thước nhỏ đến trung bình, thân thon\n- Chân sau rất dài và khỏe, thích nghi với việc nhảy\n- Chân trước ngắn, dùng để cầm thức ăn\n- Đuôi dài, có chùm lông ở cuối giúp giữ thăng bằng\n- Bộ lông màu nâu vàng hoặc cát, bụng trắng";
+const lifestyle = "Chuột nhảy lớn sống ở các vùng sa mạc, bán sa mạc và thảo nguyên khô tại Trung Á. Chúng hoạt động chủ yếu vào ban đêm để tránh nhiệt độ cao ban ngày. Thức ăn gồm hạt, rễ cây và côn trùng nhỏ. Loài này di chuyển bằng cách nhảy xa bằng hai chân sau, giúp tránh kẻ thù và di chuyển nhanh trên nền đất khô. Chúng thường sống đơn độc và đào hang để trú ẩn.";
+const biography = "Allactaga major là loài gặm nhấm thích nghi tốt với môi trường khô hạn khắc nghiệt. Nhờ khả năng tiết kiệm nước và hoạt động về đêm, chúng có thể sinh tồn trong điều kiện thiếu nước. Hiện nay, loài này vẫn có phân bố khá rộng và chưa bị đe dọa nghiêm trọng, tuy nhiên môi trường sống của chúng có thể bị ảnh hưởng bởi biến đổi khí hậu và hoạt động của con người.";

@@ -1,0 +1,6 @@
+const scname = "Phascolarctos Cinereus";
+const vnname = "Gấu túi Koala";
+const tags = "Úc";
+const appearance = "- Thân hình nhỏ đến trung bình, tròn trịa, lông dày màu xám hoặc nâu nhạt\n- Tai to, tròn, phủ lông dày\n- Mũi lớn, màu đen, nhẵn\n- Chân khỏe, móng vuốt sắc giúp leo trèo dễ dàng\n- Đuôi ngắn, gần như không thấy rõ";
+const lifestyle = "Gấu túi Koala sống chủ yếu trên cây, đặc biệt là các loài bạch đàn, trong rừng và rừng thưa ở Úc. Chúng là loài ăn thực vật, chủ yếu ăn lá bạch đàn, thỉnh thoảng uống nước từ lá cây. Loài này hoạt động chủ yếu về đêm và dành phần lớn thời gian ngủ hoặc nghỉ ngơi trên cành cây. Chúng sống đơn độc hoặc theo nhóm nhỏ, giữ lãnh thổ riêng.";
+const biography = "Phascolarctos cinereus là loài đặc trưng của Úc, nổi tiếng với thói quen sống trên cây và ăn lá bạch đàn. Chúng đóng vai trò quan trọng trong hệ sinh thái rừng bằng cách giúp duy trì sự phát triển của cây. Hiện nay, loài này đang đối mặt với các mối đe dọa như mất môi trường sống, cháy rừng và biến đổi khí hậu, nên được xếp vào nhóm loài dễ bị tổn thương và có các chương trình bảo tồn.";

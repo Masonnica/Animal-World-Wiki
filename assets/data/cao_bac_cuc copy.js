@@ -1,0 +1,6 @@
+const scname = "Vulpes Lagopus";
+const vnname = "Cáo Bắc Cực";
+const tags = "Bắc Cực";
+const appearance = "- Kích thước nhỏ đến trung bình, thân hình tròn, gọn\n- Bộ lông rất dày, màu trắng vào mùa đông và nâu xám vào mùa hè\n- Tai nhỏ, tròn, giúp giảm mất nhiệt\n- Đuôi dài, xù, dùng để giữ ấm khi ngủ\n- Bàn chân có lông phủ, giúp di chuyển trên tuyết";
+const lifestyle = "Cáo Bắc Cực sống ở vùng lãnh nguyên và băng tuyết tại Bắc Cực. Chúng là loài ăn tạp, thức ăn gồm động vật nhỏ, chim, cá và xác thối. Loài này có khả năng thích nghi cao với môi trường lạnh, thường đào hang dưới đất để trú ẩn. Chúng hoạt động cả ngày lẫn đêm và có thể đi theo gấu trắng để ăn thức ăn thừa.";
+const biography = "Vulpes lagopus là loài động vật biểu tượng của Bắc Cực, nổi bật với khả năng chịu lạnh cực tốt. Chúng đóng vai trò quan trọng trong hệ sinh thái bằng cách kiểm soát quần thể động vật nhỏ. Hiện nay, loài này vẫn có số lượng ổn định, tuy nhiên có thể bị ảnh hưởng bởi biến đổi khí hậu và sự cạnh tranh từ các loài khác.";

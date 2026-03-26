@@ -1,0 +1,6 @@
+const scname = "Amphiprion Ocellaris";
+const vnname = "Cá hề vằn cam";
+const tags = "Úc";
+const appearance = "- Thân nhỏ, hình bầu dục, màu cam tươi nổi bật\n- Ba dải trắng ngang thân, viền đen rõ ràng\n- Vây lưng và vây đuôi tròn, mềm mại\n- Mắt to, đen, thân thiện với môi trường xung quanh\n- Kích thước trung bình khoảng 8–10 cm";
+const lifestyle = "Cá hề vằn cam sống ở các rạn san hô nông tại vùng biển ven bờ Úc và các đảo lân cận. Chúng sống cộng sinh với hải quỳ, dùng râu hải quỳ để bảo vệ khỏi kẻ thù và kiếm thức ăn. Thức ăn gồm động vật phù du, tảo và các sinh vật nhỏ trong nước. Cá hề vằn cam hoạt động ban ngày và thường sống theo cặp hoặc nhóm nhỏ quanh hải quỳ.";
+const biography = "Amphiprion ocellaris là loài cá nổi tiếng nhờ mối quan hệ cộng sinh đặc biệt với hải quỳ, giúp duy trì cân bằng sinh thái rạn san hô. Loài này cũng rất phổ biến trong ngành nuôi cá cảnh toàn cầu. Hiện nay, cá hề vằn cam vẫn phân bố ổn định trong tự nhiên, mặc dù một số quần thể chịu áp lực từ khai thác và biến đổi môi trường biển.";

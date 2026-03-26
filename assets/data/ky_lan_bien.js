@@ -1,0 +1,6 @@
+const scname = "Monodon Monoceros";
+const vnname = "Kỳ lân biển";
+const tags = "Bắc Cực";
+const appearance = "- Thân dài, màu xám nhạt với các đốm sẫm\n- Con đực có ngà dài xoắn ốc, có thể dài tới 2–3 m\n- Đầu tròn, không có vây lưng rõ rệt\n- Vây trước nhỏ, đuôi ngang giống các loài cá voi\n- Kích thước trưởng thành dài khoảng 4–5 m";
+const lifestyle = "Kỳ lân biển sống ở vùng biển lạnh giá Bắc Cực, thường gần các tảng băng. Chúng là loài ăn thịt, thức ăn gồm cá, mực và động vật biển sâu. Loài này thường di chuyển theo nhóm nhỏ và có tập tính di cư theo mùa để tìm kiếm thức ăn và tránh băng dày. Chúng có khả năng lặn sâu để săn mồi trong môi trường nước lạnh.";
+const biography = "Monodon monoceros là loài động vật biển độc đáo, nổi bật với chiếc ngà dài được ví như “kỳ lân của đại dương”. Chiếc ngà này thực chất là răng phát triển dài và có thể dùng trong giao tiếp hoặc cạnh tranh. Hiện nay, loài này vẫn tồn tại trong tự nhiên nhưng đang chịu ảnh hưởng từ biến đổi khí hậu và thay đổi môi trường sống ở Bắc Cực.";

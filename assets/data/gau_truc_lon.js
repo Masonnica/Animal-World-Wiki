@@ -1,0 +1,6 @@
+const scname = "Ailuropoda Melanoleuca";
+const vnname = "Gấu trúc lớn";
+const tags = "Đông Á";
+const appearance = "- Bộ lông dày màu trắng với các mảng đen đặc trưng ở mắt, tai, vai và chân\n- Thân hình to, tròn, tạo cảm giác mập mạp\n- Đầu lớn, mặt tròn với “quầng mắt” đen rất dễ nhận biết\n- Răng và hàm khỏe, thích nghi với việc ăn tre\n- Chiều dài cơ thể khoảng 1,2–1,9 m, nặng từ 70–120 kg";
+const lifestyle = "Gấu trúc lớn sống chủ yếu trong các khu rừng tre ở vùng núi của Trung Quốc. Thức ăn chính của chúng là tre, chiếm phần lớn khẩu phần ăn hằng ngày, ngoài ra đôi khi ăn thêm thực vật khác hoặc động vật nhỏ. Chúng sống đơn độc, mỗi cá thể có lãnh thổ riêng và thường hoạt động vào ban ngày lẫn ban đêm. Gấu trúc dành phần lớn thời gian để ăn và nghỉ ngơi do giá trị dinh dưỡng của tre khá thấp.";
+const biography = "Ailuropoda melanoleuca là một trong những loài động vật biểu tượng của Trung Quốc và thế giới. Trước đây, số lượng của chúng giảm mạnh do mất môi trường sống và hoạt động của con người. Nhờ các chương trình bảo tồn nghiêm ngặt và xây dựng khu bảo tồn, quần thể gấu trúc lớn đã dần phục hồi. Hiện nay, loài này được xếp vào nhóm dễ bị tổn thương nhưng vẫn cần tiếp tục bảo vệ để đảm bảo sự tồn tại lâu dài.";

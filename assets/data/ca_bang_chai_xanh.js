@@ -1,0 +1,6 @@
+const scname = "Thalassoma Lunare";
+const vnname = "Cá bàng chài xanh";
+const tags = "Úc";
+const appearance = "- Thân dẹp, hình bầu dục, màu xanh sáng với sọc vàng và đen\n- Vây lưng dài, có các vệt đỏ hoặc cam ở cuối\n- Miệng nhỏ, mỏ nhọn, thích hợp bắt động vật phù du\n- Đuôi hình quạt, linh hoạt, giúp bơi nhanh giữa rạn san hô\n- Kích thước trung bình khoảng 15–20 cm";
+const lifestyle = "Cá bàng chài xanh sống tại các rạn san hô nông và vùng biển ven bờ Úc. Chúng là loài ăn động vật nhỏ, thức ăn chủ yếu gồm tôm, giáp xác và động vật phù du. Thalassoma lunare hoạt động ban ngày, di chuyển linh hoạt giữa các khe san hô để tìm thức ăn và tránh kẻ thù. Chúng thường sống theo đàn nhỏ, đặc biệt trong mùa sinh sản.";
+const biography = "Thalassoma lunare là loài cá rạn san hô phổ biến ở vùng biển Úc, đóng vai trò quan trọng trong cân bằng sinh thái nhờ kiểm soát các loài động vật nhỏ trên rạn. Hiện nay, loài này vẫn có phân bố rộng, mặc dù một số quần thể chịu áp lực từ khai thác biển và biến đổi môi trường.";

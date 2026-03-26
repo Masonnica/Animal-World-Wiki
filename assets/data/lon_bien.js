@@ -1,0 +1,6 @@
+const scname = "Dugong Dugon";
+const vnname = "Lợn biển";
+const tags = "Úc";
+const appearance = "- Thân hình lớn, thon dài, màu xám xanh hoặc nâu nhạt\n- Đầu nhỏ, mõm tròn và dài, thích hợp hái cỏ biển\n- Không có chi trước dạng chân mà có vây tròn\n- Đuôi hình chữ U rộng, giúp bơi mạnh và di chuyển linh hoạt\n- Kích thước trưởng thành dài 2–3 m, nặng 200–400 kg";
+const lifestyle = "Lợn biển sống ở vùng nước nông ven bờ, đầm phá và vịnh có thảm cỏ biển tại Úc. Chúng là loài ăn thực vật, chủ yếu là cỏ biển và đôi khi tảo mềm. Dugong Dugon bơi chậm, hoạt động ban ngày, thường di chuyển theo đàn nhỏ để kiếm thức ăn. Chúng có tập tính nghỉ ngơi trên mặt nước hoặc ở vùng nước nông khi không ăn.";
+const biography = "Dugong dugon là loài động vật biển quan trọng, giúp duy trì sự phát triển của thảm cỏ biển và cân bằng hệ sinh thái ven bờ. Hiện nay, loài này đang bị đe dọa do khai thác, va chạm với tàu thuyền và mất môi trường sống. Nhiều chương trình bảo tồn đang được triển khai để bảo vệ quần thể lợn biển tại Úc.";
