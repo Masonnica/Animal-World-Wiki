@@ -1,4 +1,5 @@
 window.ANIMAL_INDEX = [
+    {id: 'duong_minh', scname: 'Duong Minh', vnname: 'Dương Minh', tags: 'Việt Nam'},
     {id: 'gau_den_my', scname: 'Ursus Americanus', vnname: 'Gấu đen Mỹ', tags: 'Bắc Mỹ'},
     {id: 'cu_meo_soc', scname: 'Strix Varia', vnname: 'Cú mèo sọc', tags: 'Bắc Mỹ'},
     {id: 'ca_hoi_dai_tay_duong', scname: 'Salmo Salar', vnname: 'Cá hồi Đại Tây Dương', tags: 'Bắc Mỹ'},
@@ -14,4 +15,14 @@ window.ANIMAL_INDEX = [
     {id: 'bo_rung_bac_my', scname: 'Bison Bison', vnname: 'Bò rừng Bắc Mỹ', tags: 'Bắc Mỹ'},
     {id: 'ca_voi_trang', scname: 'Balaenoptera Musculus', vnname: 'Cá voi xanh', tags: 'Bắc Mỹ'},
     {id: 'ca_tam_trang', scname: 'Acipenser Transmontanus', vnname: 'Cá tầm trắng', tags: 'Bắc Mỹ'},
+    {id: 'cao_fennec', scname: 'Vulpes Zerda', vnname: 'Cáo fennec', tags: 'Bắc Phi'},
+    {id: 'chim_duoi_trang_sa_mac', scname: 'Oenanthe Leucopyga', vnname: 'Chim đuôi trắng sa mạc', tags: 'Bắc Phi'},
+    {id: 'ken_ken_ai_cap', scname: 'Neophron Percnopterus', vnname: 'Kền kền Ai Cập', tags: 'Bắc Phi'},
+    {id: 'chuot_nhay_sa_mac', scname: 'Jaculus Jaculus', vnname: 'Chuột nhảy sa mạc', tags: 'Bắc Phi'},
+    {id: 'linh_cau_soc', scname: 'Hyaena Hyaena', vnname: 'Linh cẩu sọc', tags: 'Bắc Phi'},
+    {id: 'linh_duong_dorcas', scname: 'Gazella Dorcas', vnname: 'Linh dương Dorcas', tags: 'Bắc Phi'},
+    {id: 'o_tac_bac_phi', scname: 'Chlamydotis Undulata', vnname: 'Ô tác Bắc Phi', tags: 'Bắc Phi'},
+    {id: 'ga_da_sa_mac', scname: 'Ammoperdix Heyi', vnname: 'Gà đá sa mạc', tags: 'Bắc Phi'},
+    {id: 'son_ca_sa_mac_lon', scname: 'Alaemon Alaudipes', vnname: 'Sơn ca sa mạc lớn', tags: 'Bắc Phi'},
+    {id: 'linh-duong-adax', scname: 'Addax Nasomaculatus', vnname: 'Linh dương addax', tags: 'Bắc Phi'},
 ];
