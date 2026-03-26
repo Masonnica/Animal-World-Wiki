@@ -5,6 +5,9 @@ const script = document.createElement('script');
 script.id = 'load';
 script.src = path;
 script.onload = onload || function () { };
+script.onerror = function () {
+    window.location.href = `404.html`;
+};
 document.body.appendChild(script);
 
 // ─── TABLE OF CONTENT NAVIGATION ───
