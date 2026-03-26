@@ -1,0 +1,17 @@
+window.ANIMAL_INDEX = [
+    {id: 'gau_den_my', scname: 'Ursus Americanus', vnname: 'Gấu đen Mỹ', tags: 'Bắc Mỹ'},
+    {id: 'cu_meo_soc', scname: 'Strix Varia', vnname: 'Cú mèo sọc', tags: 'Bắc Mỹ'},
+    {id: 'ca_hoi_dai_tay_duong', scname: 'Salmo Salar', vnname: 'Cá hồi Đại Tây Dương', tags: 'Bắc Mỹ'},
+    {id: 'gau_meo', scname: 'Procyon Lotor', vnname: 'Gấu mèo', tags: 'Bắc Mỹ'},
+    {id: 'huou_duoi_trang', scname: 'Odocoileus Virginianus', vnname: 'Hươu đuôi trắng', tags: 'Bắc Mỹ'},
+    {id: 'dai_bang_dau_trang', scname: 'Haliaeetus Leucocephalus', vnname: 'Đại bàng đầu trắng', tags: 'Bắc Mỹ'},
+    {id: 'rai_ca_bien', scname: 'Enhydra Lutris', vnname: 'Rái cá biển', tags: 'Bắc Mỹ'},
+    {id: 'ca_voi_trang_beluga', scname: 'Delphinapterus Leucas', vnname: 'Cá voi trắng Beluga', tags: 'Bắc Mỹ'},
+    {id: 'qua_my', scname: 'Corvus Brachyrhynchos', vnname: 'Quạ Mỹ', tags: 'Bắc Mỹ'},
+    {id: 'bo_cau_da', scname: 'Columba Livia', vnname: 'Bồ câu đá', tags: 'Bắc Mỹ'},
+    {id: 'cho_soi_dong_co', scname: 'Canis Latrans', vnname: 'Chó sói đồng cỏ', tags: 'Bắc Mỹ'},
+    {id: 'dieu_hau_duoi_do', scname: 'Buteo Jamaicensis', vnname: 'Diều hâu đuôi đỏ', tags: 'Bắc Mỹ'},
+    {id: 'bo_rung_bac_my', scname: 'Bison Bison', vnname: 'Bò rừng Bắc Mỹ', tags: 'Bắc Mỹ'},
+    {id: 'ca_voi_trang', scname: 'Balaenoptera Musculus', vnname: 'Cá voi xanh', tags: 'Bắc Mỹ'},
+    {id: 'ca_tam_trang', scname: 'Acipenser Transmontanus', vnname: 'Cá tầm trắng', tags: 'Bắc Mỹ'},
+];

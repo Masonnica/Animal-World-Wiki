@@ -1,9 +1,10 @@
-const scname = "Acipenser Transmontanus";
-const vnname = "Cá tầm trắng";
+// 3. Bò rừng Bắc Mỹ
+const scname = "Bison Bison";
+const vnname = "Bò rừng Bắc Mỹ";
 const tags = "Bắc Mỹ";
-const appearance = "abc\n- bullet points\n- bullet points 1\n- bullet points 2\n<link|text>\n<link|text>\n<link|text>";
-const lifestyle = "Lorem ipsum dolor sit amet consectetur adipiscing elit.\n- Pulvinar vivamus fringilla lacus nec metus bibendum egestas.\n- Orci varius natoque penatibus et magnis dis parturient.\nVestibulum fusce dictum risus blandit quis suspendisse aliquet.\nA1\nB2\nC3\n- ABCDEFG\n- 123456";
-const biography = "Porta elementum a enim euismod quam justo lectus.\nDui felis venenatis ultrices proin libero feugiat tristique.\nAdipiscing elit quisque faucibus ex sapien vitae pellentesque.\nBibendum egestas iaculis massa nisl malesuada lacinia integer.\nSemper vel class aptent taciti sociosqu ad litora.\nMattis scelerisque maximus eget fermentum odio phasellus non. Porta elementum a enim euismod quam justo lectus.\nDui felis venenatis ultrices proin libero feugiat tristique.\nAdipiscing elit quisque faucibus ex sapien vitae pellentesque.\nBibendum egestas iaculis massa nisl malesuada lacinia integer.\nSemper vel class aptent taciti sociosqu ad litora.\nMattis scelerisque maximus eget fermentum odio phasellus non.";
+const appearance = "- Cơ thể rất to và nặng, phần vai cao tạo thành bướu lớn\n- Lông dày màu nâu sẫm, đặc biệt rậm ở đầu và vai\n- Đầu to với cặp sừng cong ngắn\n- Chân khỏe, thích hợp di chuyển trên đồng cỏ rộng\n- Con trưởng thành dài khoảng 2,1–3,5 m, nặng khoảng 450–1.000 kg";
+const lifestyle = "Bò rừng Bắc Mỹ sống chủ yếu ở các đồng cỏ rộng lớn và thảo nguyên. Chúng thường sống theo đàn lớn để bảo vệ lẫn nhau trước kẻ săn mồi. Thức ăn chủ yếu là cỏ và các loại thực vật thấp. Loài này có thể di chuyển quãng đường dài để tìm nguồn thức ăn và nước, đặc biệt theo mùa.";
+const biography = "Bison bison từng là một trong những loài động vật lớn phổ biến nhất ở Bắc Mỹ, với hàng chục triệu cá thể sống trên các đồng cỏ. Tuy nhiên vào thế kỷ 19, việc săn bắn quá mức khiến số lượng của chúng giảm mạnh. Nhờ các chương trình bảo tồn và bảo vệ trong công viên quốc gia, quần thể bò rừng Bắc Mỹ đã dần phục hồi và hiện nay vẫn tồn tại ở nhiều khu bảo tồn và đồng cỏ tự nhiên.";
 
 function addList(list, selector) {
     for (let i = 0; i < list.length; i++) {

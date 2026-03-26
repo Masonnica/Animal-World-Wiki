@@ -167,3 +167,61 @@ header {
     filter: brightness(0) invert(1);
     vertical-align: middle;
 }
+
+/* ─── SEARCH DROPDOWN ─── */
+.search-dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border: 1px solid #dde8dd;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .1);
+    overflow: hidden;
+    z-index: 200;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.search-dropdown.open {
+    display: block;
+}
+
+.search-item {
+    display: flex;
+    flex-direction: column;
+    padding: .7rem 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid #f0f5f0;
+    transition: background .15s;
+}
+
+.search-item:last-child {
+    border-bottom: none;
+}
+
+.search-item:hover {
+    background: #f0faf0;
+}
+
+.search-item-vn {
+    font-size: .85rem;
+    font-weight: 600;
+    color: #1a2e1a;
+}
+
+.search-item-sc {
+    font-size: .72rem;
+    font-style: italic;
+    color: #6a8a6a;
+    margin-top: .15rem;
+}
+
+.search-empty {
+    padding: 1.5rem;
+    text-align: center;
+    font-size: .8rem;
+    color: #9aaa9a;
+}
